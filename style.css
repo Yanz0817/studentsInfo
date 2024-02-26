@@ -1,0 +1,25 @@
+body{
+    background: #1d2630;
+  }
+  
+  body.file1{
+    color: #fff
+  }
+
+  body.file2{
+    color: #030303
+  }
+  #update{
+    display: none;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+         -webkit-appearance: none;
+          margin: 0;
+  }
+
