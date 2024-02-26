@@ -117,8 +117,6 @@
                         <td><?php echo $row['Phone']?></td>
                         <td> <button type="button" class="btn btn-primary" onclick="updateRecord(<?php echo $row['ID']; ?>)">Update</button>
                         <button type="button" class="btn btn-danger" onclick="deleteRecord(<?php echo $row['ID']; ?>)" >Delete</button></td>
-                       
-                        
                     </tr>
                     
              <?php
